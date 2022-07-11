@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.div1 {
+    background-image: url(7.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px;
+    text-align: justify;
+    color: aliceblue;
+}
+
+.button {
+    text-decoration: none;
+    color: aliceblue;
+    background-color: firebrick;
+    padding: 7px;
+    border-radius: 2px;
+}
+
+.Discription {
+    display: flex;
+    padding: 100px;
+}
+
+#Exceptional {
+    padding-left: 40px;
+}
+
+footer {
+    background-color: rgb(15, 15, 15);
+    text-align: center;
+    padding: 25px;
+    color: aliceblue;
+}
