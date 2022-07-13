@@ -35,3 +35,21 @@ footer {
     padding: 25px;
     color: aliceblue;
 }
+
+.sector-1 {
+    padding: 0 100px;
+    text-align: center;
+}
+
+.help-section {
+    background-color: bisque;
+    border-radius: 3px;
+    margin: 25px;
+    padding: 20px;
+}
+
+.sector-2 {
+    display: flex;
+    margin: 5px;
+    padding: 0px 200px;
+}
